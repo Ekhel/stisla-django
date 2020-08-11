@@ -26,6 +26,20 @@
   ```
 
 - Activate the env on Project:
+
   ```
      newenv\Scripts\activate
+  ```
+
+- Install requirements.txt]
+  **Upgrade pip**
+
+  ```
+    python -m pip install --upgarade pip
+  ```
+
+  **Install requirements**
+
+  ```
+    pip install -r requirements
   ```
