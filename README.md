@@ -10,3 +10,22 @@
   Stisla is a Free Bootstrap Admin Template which will help you to speed up your project and design your own dashboard UI. Users will love it.
 </p>
 <br>
+
+## Installation :
+
+- Clone this repo :
+
+  ```
+     https://github.com/Ekhel/stisla-django
+  ```
+
+- Create env (Windows)
+
+  ```python
+     python -m venv newenv
+  ```
+
+- Activate the env on Project:
+  ```
+     newenv\Scripts\activate
+  ```
